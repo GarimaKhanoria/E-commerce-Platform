@@ -1,0 +1,69 @@
+* [33md1bb206[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mhistory-rebuild[m[33m)[m Optimized performance and SEO tags
+* [33m40cd18e[m Finalized UI polish and responsiveness
+* [33m26f9a4a[m Implemented order placement and storage
+* [33m2b802d9[m Developed cart management
+* [33mb5cb8af[m Integrated product CRUD for admin
+* [33med5d634[m Built admin dashboard layout
+* [33m9a9de68[m Set up user login/authentication
+* [33m28a32ca[m Connected to MongoDB via backend
+* [33m8e110c1[m Developed user registration form
+* [33m6763298[m Integrated basic routing
+* [33m9d19f2a[m Created product detail page
+* [33mf0c10db[m Added product listing component
+* [33m3b18d67[m Built homepage UI layout
+* [33m7cdbf99[m Initialized Tailwind and PostCSS
+* [33mf273576[m Setup folder structure and configuration
+* [33m37f5b49[m Initial project setup
+* [33m20de83e[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Initial project setup with folder structure
+* [33mc623f09[m Stop tracking history.js file
+* [33mfff7eb6[m Final polish before production
+* [33mda751c5[m Added search filtering hook
+* [33m16d1893[m Minor UI adjustments and cleanup
+* [33m3058e04[m Added basic admin dashboard route
+* [33m02a96cf[m Started Stripe payment integration
+* [33mf2a044d[m Middleware for protected routes
+* [33mc639b31[m Integrated checkout page and state
+* [33m8693a35[m Setup homepage with product grid
+* [33mec10a34[m Developed cart hook and logic
+* [33mf0962d7[m Created product listing component
+* [33mdb5a4c1[m Built responsive navbar component
+* [33m2eddc5e[m Implemented user authentication logic
+* [33m6516a56[m Created product data model
+* [33m32a4370[m Added app layout and base styling
+* [33mc914ed0[m Set up Tailwind CSS configuration
+* [33m20134cd[m Initialized package.json with dependencies
+* [33mf2e77e6[m Initial project setup with folder structure
+* [33m18861fe[m Stop tracking history.js file
+* [33md10309b[m Optimized performance and SEO tags
+* [33m31aa325[m Finalized UI polish and responsiveness
+* [33m05f0059[m Implemented order placement and storage
+* [33m8ac1ba2[m Developed cart management
+* [33m0252a39[m Integrated product CRUD for admin
+* [33me02df1c[m Built admin dashboard layout
+* [33m33cf145[m Set up user login/authentication
+* [33ma312f3b[m Connected to MongoDB via backend
+* [33m44eb150[m Developed user registration form
+* [33mc68166a[m Integrated basic routing
+* [33m77b9b84[m Created product detail page
+* [33mfbe2c57[m Added product listing component
+* [33m682cc6a[m Built homepage UI layout
+* [33mcd8112d[m Initialized Tailwind and PostCSS
+* [33m71b9748[m Setup folder structure and configuration
+* [33md8dbfba[m Initial project setup
+* [33mf5ee30e[m Final polish before production
+* [33mb8a12e8[m Added search filtering hook
+* [33ma5a9025[m Minor UI adjustments and cleanup
+* [33mb2990ad[m Added basic admin dashboard route
+* [33m765d033[m Started Stripe payment integration
+* [33m3db478a[m Middleware for protected routes
+* [33mcf17b63[m Integrated checkout page and state
+* [33m5f84dbb[m Setup homepage with product grid
+* [33m6a3dc66[m Developed cart hook and logic
+* [33mf88424d[m Created product listing component
+* [33mf49ca5a[m Built responsive navbar component
+* [33m59babad[m Implemented user authentication logic
+* [33mc428566[m Created product data model
+* [33m75cf779[m Added app layout and base styling
+* [33mcef6fd5[m Set up Tailwind CSS configuration
+* [33m8e65f05[m Initialized package.json with dependencies
+* [33mc523130[m Initial project setup with folder structure
