@@ -1,1 +1,1 @@
-// Tailwind setup
+// Tailwind config
