@@ -1,1 +1,1 @@
-// Product model
+// product model
