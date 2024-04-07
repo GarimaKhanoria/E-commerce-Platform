@@ -1,2 +1,1 @@
-// Navbar component
-// UI tweaks
+// Navbar
