@@ -1,1 +1,1 @@
-// Homepage layout
+// Home page
