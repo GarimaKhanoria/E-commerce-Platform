@@ -1,1 +1,1 @@
-// Checkout logic
+// Checkout page
