@@ -1,1 +1,2 @@
 // Navbar
+// extra UI cleanup
